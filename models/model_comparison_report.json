@@ -1,0 +1,29 @@
+{
+    "comparison_timestamp": "2024-12-14T15:10:21.377155",
+    "number_of_models_compared": 1,
+    "test_samples": 1000,
+    "metrics_by_model": {
+        "best_model_20241213_010018": {
+            "mse": 1707.3405624351024,
+            "rmse": 41.319977764213554,
+            "mae": 39.0847815709704,
+            "r2": -8.498370608204057,
+            "explained_variance": 4.214595939639654e-06,
+            "mape": 97.02158541496263,
+            "avg_prediction_time_ms": 0.009982585906982422
+        }
+    },
+    "best_model": {
+        "model_name": "best_model_20241213_010018",
+        "metrics": {
+            "mse": 1707.3405624351024,
+            "rmse": 41.319977764213554,
+            "mae": 39.0847815709704,
+            "r2": -8.498370608204057,
+            "explained_variance": 4.214595939639654e-06,
+            "mape": 97.02158541496263,
+            "avg_prediction_time_ms": 0.009982585906982422
+        },
+        "selection_criteria": "Composite score based on weighted metrics: {'rmse': 0.3, 'mae': 0.2, 'r2': 0.2, 'mape': 0.2, 'avg_prediction_time_ms': 0.1}"
+    }
+}

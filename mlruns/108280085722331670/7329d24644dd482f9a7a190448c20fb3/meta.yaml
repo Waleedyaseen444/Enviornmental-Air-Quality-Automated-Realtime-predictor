@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108280085722331670/7329d24644dd482f9a7a190448c20fb3/artifacts
+end_time: 1734033226145
+entry_point_name: ''
+experiment_id: '108280085722331670'
+lifecycle_stage: active
+run_id: 7329d24644dd482f9a7a190448c20fb3
+run_name: gradient_boosting_20241213_005346
+run_uuid: 7329d24644dd482f9a7a190448c20fb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734033226076
+status: 4
+tags: []
+user_id: Waleed Yaseen

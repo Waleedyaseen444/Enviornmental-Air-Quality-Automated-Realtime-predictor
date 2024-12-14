@@ -1,0 +1,29 @@
+{
+    "model_name": "lstm",
+    "timestamp": "2024-12-14T06:52:37.861949",
+    "metrics": {
+        "rmse": 0.8862275617817564,
+        "feature_columns": [
+            "temperature",
+            "humidity",
+            "wind_speed",
+            "pressure",
+            "clouds",
+            "co",
+            "no2",
+            "o3",
+            "so2",
+            "pm2_5",
+            "pm10",
+            "hour",
+            "day_of_week",
+            "month",
+            "is_weekend",
+            "temperature_rolling_mean_6h",
+            "humidity_rolling_mean_6h",
+            "aqi_lag_1h",
+            "aqi_lag_3h",
+            "aqi_lag_6h"
+        ]
+    }
+}

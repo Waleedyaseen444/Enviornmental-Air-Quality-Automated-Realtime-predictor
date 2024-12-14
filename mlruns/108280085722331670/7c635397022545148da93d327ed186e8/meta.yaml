@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/108280085722331670/7c635397022545148da93d327ed186e8/artifacts
+end_time: 1734172928786
+entry_point_name: ''
+experiment_id: '108280085722331670'
+lifecycle_stage: active
+run_id: 7c635397022545148da93d327ed186e8
+run_name: LSTM_20241214154151
+run_uuid: 7c635397022545148da93d327ed186e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734172911468
+status: 3
+tags: []
+user_id: Waleed Yaseen
